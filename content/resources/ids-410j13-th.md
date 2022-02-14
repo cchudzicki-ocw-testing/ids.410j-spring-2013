@@ -13,7 +13,9 @@ image_metadata:
     decision-making (or you could just ask a physicist).
   image-alt: An xkcd comic showing a physicist condescendingly "solving" a complicated
     problem of another scientist.
+learning_resource_types: []
 resourcetype: Image
 title: ids-410j13-th.jpg
+type: OCWImage
 uid: 9f972008-543e-cf9f-a203-3c8ba37bd93b
 ---

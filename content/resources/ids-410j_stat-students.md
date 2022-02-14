@@ -7,7 +7,11 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+parent_title: Instructor Insights
+parent_type: ThisCourseAtMITSection
 resourcetype: Image
 title: IDS-410J_stat-students.png
+type: OCWImage
 uid: 2a2012be-2843-d358-48ae-b2f0cda98f89
 ---
