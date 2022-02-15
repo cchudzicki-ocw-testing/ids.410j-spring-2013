@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: ESD.864 Problem Set 2
-type: OCWFile
 uid: 15dde2f0-1b32-2626-b7c7-17e6ea96f2b5
 ---

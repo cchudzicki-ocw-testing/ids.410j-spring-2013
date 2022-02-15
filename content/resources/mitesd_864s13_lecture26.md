@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 26: Modeling and Assessment
   for Policy: Synthesis and wrap-up'
-type: OCWFile
 uid: d623765f-414e-b1b8-bd30-1de32c8919a1
 ---

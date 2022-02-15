@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: Fact Sheet - Final Revisions to the National Ambient Air Quality Standards
   for Ozone
-type: OCWFile
 uid: 282c4157-871b-e7a9-3cbb-af4d07c508c4
 ---

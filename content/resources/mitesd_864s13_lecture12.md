@@ -9,6 +9,5 @@ parent_title: Lecture Slides
 parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 12: System Modeling'
-type: OCWFile
 uid: e548adcd-d1d9-cefd-0ca9-a660c24a90a4
 ---

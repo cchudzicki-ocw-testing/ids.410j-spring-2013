@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Making Models: Summative Evaluation Report'
-type: OCWFile
 uid: f2954ce7-b977-9e2a-650e-99a837cf1239
 ---

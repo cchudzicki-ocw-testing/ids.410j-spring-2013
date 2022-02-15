@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'Making Models Exhibit: Exhibit Goals and Activities'
-type: OCWFile
 uid: 82dfebe2-3fa0-1766-0f6e-59241f8e08bb
 ---

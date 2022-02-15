@@ -9,6 +9,5 @@ parent_title: Assignments
 parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Example Memo: Mercury in the U.S. Environment'
-type: OCWFile
 uid: 752e3cc0-1305-f24d-e261-c83b2b690d97
 ---

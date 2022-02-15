@@ -8,6 +8,5 @@ parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document
 title: The Subprime Mortgage Crisis and Macroeconomic Models
-type: OCWFile
 uid: 4983c9e6-1cee-e5c4-b9fb-f06e63f468e1
 ---

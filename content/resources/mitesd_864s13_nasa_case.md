@@ -8,6 +8,5 @@ parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document
 title: "ESD.864 Modeling and Assessment for Policy, NASA\u2019s Model Standard 1"
-type: OCWFile
 uid: b0a04502-e67f-d10e-d4a6-1d3a7e06f638
 ---

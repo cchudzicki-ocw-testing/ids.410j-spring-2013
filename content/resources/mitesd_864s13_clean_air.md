@@ -8,6 +8,5 @@ parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document
 title: Setting of the 2008 National Ambient Air Quality Standard for Ozone
-type: OCWFile
 uid: 0af6984d-a891-ec0a-82d2-0e510a214bef
 ---

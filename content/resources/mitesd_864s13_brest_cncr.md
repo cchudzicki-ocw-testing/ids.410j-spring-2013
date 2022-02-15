@@ -9,6 +9,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Breast Cancer Screening: A Case Study in Using Models to Inform Preventive
   Approaches'
-type: OCWFile
 uid: 5316a2a4-171c-6b62-f447-81f1d370d76c
 ---

@@ -8,6 +8,5 @@ parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document
 title: 'Policy Brief: Deepwater Horizon Oil Spill'
-type: OCWFile
 uid: a71de061-dd5a-78e1-0f61-75c698113188
 ---

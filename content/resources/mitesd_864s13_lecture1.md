@@ -10,6 +10,5 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 1: Modeling and Assessment
   for Policy'
-type: OCWFile
 uid: 7b70ed81-5a92-6bc8-4718-9d5d285e326f
 ---

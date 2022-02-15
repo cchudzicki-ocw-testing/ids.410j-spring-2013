@@ -3,7 +3,6 @@ content_type: page
 learning_resource_types:
 - Exams
 title: Quizzes
-type: CourseSection
 uid: ace9836b-ee73-956a-cc10-e8ae881f9a55
 ---
 

@@ -16,6 +16,5 @@ image_metadata:
 learning_resource_types: []
 resourcetype: Image
 title: ids-410j13-th.jpg
-type: OCWImage
 uid: 9f972008-543e-cf9f-a203-3c8ba37bd93b
 ---

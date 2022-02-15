@@ -8,6 +8,5 @@ parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document
 title: "The Columbia Incident and NASA\u2019s Standard for Modeling and Simulation"
-type: OCWFile
 uid: 9ebed76c-b732-ee0b-6b76-0e58108750f0
 ---
