@@ -4,6 +4,7 @@ description: This file contains information regarding breast cancer.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/5316a2a4171c6b62f44781f1d370d76c_MITESD_864S13_Brest_Cncr.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document

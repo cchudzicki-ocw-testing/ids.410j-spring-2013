@@ -4,6 +4,7 @@ description: This file contains information regarding oilspill.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/2e7a3f667877d8c2d3a239f018a35f45_MITESD_864S13_OilSpill.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document

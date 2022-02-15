@@ -4,6 +4,7 @@ description: This file contains information regarding NASA colmbia.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/9ebed76cb732ee0b6b760e58108750f0_MITESD_864S13_NASA_Colbia.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document

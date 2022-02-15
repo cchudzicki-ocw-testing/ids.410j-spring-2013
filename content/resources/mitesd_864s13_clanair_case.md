@@ -4,6 +4,7 @@ description: This file contains information regarding clean air.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/5b3a49ae5123e3bc0b542764e58d413c_MITESD_864S13_ClanAir_Case.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document

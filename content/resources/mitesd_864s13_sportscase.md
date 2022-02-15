@@ -4,6 +4,7 @@ description: This file contains information regarding sport case.
 file: https://ol-ocw-studio-app-production.s3.amazonaws.com/courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/44217fa76c64d9e33ea54adbef0f1bc6_MITESD_864S13_SportsCase.pdf
 file_type: application/pdf
 learning_resource_types: []
+ocw_type: OCWFile
 parent_title: Student Work
 parent_type: CourseSection
 resourcetype: Document
