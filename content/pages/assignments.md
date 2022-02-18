@@ -31,7 +31,7 @@ SUPPLEMENTARY FILES
 {{< tdopen >}}
 
 
-[Problem Set 1 (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps1)
+{{< resource_link bc12afc1-127b-0550-1756-bc41fe8e9673 "Problem Set 1 (PDF)" >}}
 
 Topics: Making Models, Verification and Validation
 
@@ -40,9 +40,9 @@ Topics: Making Models, Verification and Validation
 {{< tdopen >}}
 
 
-Karp, Joan and Judah Leblang. "[Making Models: Summative Evaluation Report." Museum of Science, Program and Evaluation Research Group, Lesley University, 2004. (PDF - 2.0MB)]({{< baseurl >}}/resources/mitesd_864s13_ps1_mkg_summ) (Courtesy of Lesley University Program Evaluation and Research Group. Used with permission.)
+Karp, Joan and Judah Leblang. "{{< resource_link f2954ce7-b977-9e2a-650e-99a837cf1239 "Making Models: Summative Evaluation Report.\" Museum of Science, Program and Evaluation Research Group, Lesley University, 2004. (PDF - 2.0MB)" >}} (Courtesy of Lesley University Program Evaluation and Research Group. Used with permission.)
 
-[Making Models Exhibit: Exhibit Goals and Activities (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps1_mkig_mdl) (Courtesy of [Museum of Science](http://www.mos.org/ ). Used with permission.)
+{{< resource_link 82dfebe2-3fa0-1766-0f6e-59241f8e08bb "Making Models Exhibit: Exhibit Goals and Activities (PDF)" >}} (Courtesy of [Museum of Science](http://www.mos.org/ ). Used with permission.)
 
 
 {{< tdclose >}}
@@ -50,20 +50,20 @@ Karp, Joan and Judah Leblang. "[Making Models: Summative Evaluation Report." Mus
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 2 (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps2)
+{{< resource_link 15dde2f0-1b32-2626-b7c7-17e6ea96f2b5 "Problem Set 2 (PDF)" >}}
 
 Topics: Assessment Design and Evaluation
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Example Memo: Mercury in the U.S. Environment (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps2_q2exmple)
+{{< resource_link 752e3cc0-1305-f24d-e261-c83b2b690d97 "Example Memo: Mercury in the U.S. Environment (PDF)" >}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-[Problem Set 3 (PDF)]({{< baseurl >}}/resources/mitesd_864s13_ps3)
+{{< resource_link 43f995b2-b2ee-6d63-0521-47b78dd9f7fe "Problem Set 3 (PDF)" >}}
 
 Topic: System Modeling
 

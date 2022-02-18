@@ -50,7 +50,7 @@ Every spring semester
 Student Information
 -------------------
 
-![IDS-410J_stat-students.png]({{< resource_file 2a2012be-2843-d358-48ae-b2f0cda98f89 >}})
+{{< resource 2a2012be-2843-d358-48ae-b2f0cda98f89 >}}
 
 ### Breakdown by Year
 
@@ -83,9 +83,9 @@ Out of Class
 
 Activities such as:
 
-*   [Readings]({{< baseurl >}}/pages/readings) for class
-*   [Problem sets]({{< baseurl >}}/pages/assignments) and other homework
-*   Group work on the [case study project]({{< baseurl >}}/pages/projects)
+*   {{< resource_link 564d0ab5-d84f-37d8-698f-1c37cf536eed "Readings" >}} for class
+*   {{< resource_link 229b83a3-f496-a03d-b403-dda779c8fc2e "Problem sets" >}} and other homework
+*   Group work on the {{< resource_link 2894571f-a4c2-1e2f-7aca-aabe6b749145 "case study project" >}}
 *   Online quizzes throughout the semester
 
 {{< anchor "roles" >}}{{< /anchor >}}

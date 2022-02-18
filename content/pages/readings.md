@@ -284,7 +284,7 @@ Discussion Across Cases
 
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings for the class case studies are selected by the students.]({{< baseurl >}}/pages/projects/student-work)
+{{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Readings for the class case studies are selected by the students." >}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,7 +332,7 @@ Class Case 2: Economic Modeling / Model Credibility Exercise
 {{< tdopen >}}
 
 
-[Readings for the class case studies are selected by the students.]({{< baseurl >}}/pages/projects/student-work)
+{{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Readings for the class case studies are selected by the students." >}}
 
 \[Silver\] Chapters 6, and 11.
 
@@ -352,7 +352,7 @@ Class Case 3: Oil Spill / Risk Assessment Part I
 {{< tdopen >}}
 
 
-[Readings for the class case studies are selected by the students.]({{< baseurl >}}/pages/projects/student-work)
+{{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Readings for the class case studies are selected by the students." >}}
 
 Stern, Paul C., and Harvey V. Fineberg, eds. [_Understanding Risk: Informing Decisions in a Democratic Society_](http://www.nap.edu/openbook.php?record_id=5138&page=1). National Academy Press, 1996, summary pp. 1–10. ISBN: 9780309053969. \[Preview with [Google books](http://books.google.com/books?id=wj-cB_-ms58C&pg=PAfrontcover)\]
 
@@ -400,7 +400,7 @@ Class Case 4: Clean Air / Risk Assessment Part II
 {{< tdopen >}}
 
 
-[Readings for the class case studies are selected by the students.]({{< baseurl >}}/pages/projects/student-work)
+{{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Readings for the class case studies are selected by the students." >}}
 
 \[Silver\] Chapter 7.
 
@@ -440,7 +440,7 @@ Class Case 5: Sports Statistics / Uncertainty Analysis I
 {{< tdopen >}}
 
 
-[Readings for the class case studies are selected by the students.]({{< baseurl >}}/pages/projects/student-work)
+{{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Readings for the class case studies are selected by the students." >}}
 
 Risbey, James S., and MilindKandlikar. "[Expressions of Likelihood and Confidence in the IPCC Uncertainty Assessment Process](http://dx.doi.org/10.1007/s10584-007-9315-7)." _Climatic Change_ 85, no. 1–2 (2007): 19–31.
 
@@ -516,7 +516,7 @@ Brugha, Ruairi, and Zsuzsa Varvasovszky. "[Stakeholder Analysis: A Review](http
 Class Case 6: Cancer Screening / Lessons Across Cases Discussion
 {{< tdclose >}}
 {{< tdopen >}}
-[Readings for the class case studies are selected by the students.]({{< baseurl >}}/pages/projects/student-work)
+{{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Readings for the class case studies are selected by the students." >}}
 {{< tdclose >}}
 
 {{< trclose >}}
