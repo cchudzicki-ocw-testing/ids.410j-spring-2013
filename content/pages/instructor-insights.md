@@ -69,7 +69,7 @@ During an average week, students were expected to spend 9 hours on the course, r
 ## Lecture
 
 - Two class sessions per week, each lasting an hour and a half; 27 sessions total.
-- Attendance is mandatory and is reflected in the “Participation” portion of the \[grading scheme\]({{< baseurl >}}/pages/syllabus#grading).
+- Attendance is mandatory and is reflected in the “Participation” portion of the {{< resource_link 4eae3d44-f1ca-dad3-ea80-5eaae18f141d "grading scheme" "#grading" >}}.
 
 ## Out of Class
 
