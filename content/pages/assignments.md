@@ -7,7 +7,7 @@ title: Assignments
 uid: 229b83a3-f496-a03d-b403-dda779c8fc2e
 ---
 
-_This section includes problem sets and a_ [_policy memo_]({{< baseurl >}}/pages/assignments#Policy_Memo)_._
+_This section includes problem sets and a_ {{< resource_link 229b83a3-f496-a03d-b403-dda779c8fc2e "_policy memo_" "#Policy_Memo" >}}_._
 
 {{< anchor "Problem_Sets" >}}{{< /anchor >}}Problem Sets
 --------------------------------------------------------
