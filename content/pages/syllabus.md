@@ -19,7 +19,7 @@ Some familiarity with concepts of science, technology and policy will be assumed
 *   [_ESD.10 Introduction to Technology and Policy_](/courses/esd-10-introduction-to-technology-and-policy-fall-2006/)
 *   [_IDS.055J Science, Technology, and Public Policy_](http://student.mit.edu/catalog/search.cgi?search=ids.055J&style=verbatim)
 
-For those who do not have this background, supplemental readings are available in the {{< resource_link 564d0ab5-d84f-37d8-698f-1c37cf536eed "Readings" >}} section.
+For those who do not have this background, supplemental readings are available in the {{% resource_link 564d0ab5-d84f-37d8-698f-1c37cf536eed "Readings" %}} section.
 
 Description
 -----------
@@ -118,4 +118,4 @@ There will be some opportunities for extra credit.
 More Details
 ------------
 
-{{< resource_link c42db004-a497-29a4-7746-63b9af6959de "View the instructor's version of the syllabus (PDF)" >}}.
+{{% resource_link c42db004-a497-29a4-7746-63b9af6959de "View the instructor's version of the syllabus (PDF)" %}}.

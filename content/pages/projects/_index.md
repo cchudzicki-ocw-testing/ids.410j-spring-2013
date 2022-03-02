@@ -10,16 +10,16 @@ uid: 2894571f-a4c2-1e2f-7aca-aabe6b749145
 Class Case Studies
 ------------------
 
-Over the course of the semester, you will, as part of a small group, research and present one case study of modeling and assessment for policy to the rest of the class. These are noted in the {{< resource_link 0e850efb-f3bb-771d-a847-27c0dd88a84b "Calendar" >}} as Class Case Study 1–6.
+Over the course of the semester, you will, as part of a small group, research and present one case study of modeling and assessment for policy to the rest of the class. These are noted in the {{% resource_link 0e850efb-f3bb-771d-a847-27c0dd88a84b "Calendar" %}} as Class Case Study 1–6.
 
 At the beginning of the semester, you will let us know your top three choices and we will assign you to a group. The six case study topics are:
 
-1.  {{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "NASA's Model Standard" "#NASA's_Model_Standard" >}}
-2.  {{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Economic Modeling" "#Economic_Modeling" >}}
-3.  {{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Oil Spill" "#Oil_Spill" >}}
-4.  {{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Clean Air" "#Clean_Air" >}}
-5.  {{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Sports Statistics" "#Sports_Statistics" >}}
-6.  {{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Cancer Screening" "#Cancer_Screening" >}}
+1.  {{% resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "NASA's Model Standard" "#NASA's_Model_Standard" %}}
+2.  {{% resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Economic Modeling" "#Economic_Modeling" %}}
+3.  {{% resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Oil Spill" "#Oil_Spill" %}}
+4.  {{% resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Clean Air" "#Clean_Air" %}}
+5.  {{% resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Sports Statistics" "#Sports_Statistics" %}}
+6.  {{% resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "Cancer Screening" "#Cancer_Screening" %}}
 
 General instructions, as well as a one-page briefing with initial topic references will be provided by the instructors four weeks prior to your presentation date. One week before your presentation, your group will circulate a short briefing paper to the class on the case (maximum 5 pages single-spaced) as well as any additional background readings you suggest for preparation. On the day of your presentation, please prepare 20–30 minutes of presentation and discussion questions for the class. As part of developing this case, each group will meet with the teaching staff to discuss both substantive case study lessons and presentation plans. Your briefing paper and class presentation will be worth 15% of your final grade; your group will also be asked to comment on another's presentation (5%).
 
@@ -54,4 +54,4 @@ Potential areas of further discussion that the review group might consider are:
 *   Aspects of the case that the group may have overlooked, or not focused specifically on, that the review group thinks are relevant and / or interesting.
 *   Relationship of the case to other cases or class discussions: general lessons, comparing or contrasting to other cases.
 
-The teams have provided their case study memo and reading list as {{< resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "examples of student work" >}} for your reference.
+The teams have provided their case study memo and reading list as {{% resource_link fd3a5df9-3a9d-a26e-6e54-860d5ad8146c "examples of student work" %}} for your reference.

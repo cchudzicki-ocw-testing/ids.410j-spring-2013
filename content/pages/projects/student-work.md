@@ -28,12 +28,12 @@ READINGS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< anchor "NASA_s_Model_Standard" >}}{{< /anchor >}}{{< resource_link b0a04502-e67f-d10e-d4a6-1d3a7e06f638 "NASA's Model Standard (PDF)" >}}
+{{< anchor "NASA_s_Model_Standard" >}}{{< /anchor >}}{{% resource_link b0a04502-e67f-d10e-d4a6-1d3a7e06f638 "NASA's Model Standard (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link 9ebed76c-b732-ee0b-6b76-0e58108750f0 "The Columbia Incident and NASA's Standard for Modeling and Simulation (PDF)" >}}
+{{% resource_link 9ebed76c-b732-ee0b-6b76-0e58108750f0 "The Columbia Incident and NASA's Standard for Modeling and Simulation (PDF)" %}}
 
 (Courtesy of Hisham Bedri, Erin Leidy, Daniela Miao, Jason Ryan, and Yi Xue. Used with permission.)
 
@@ -56,12 +56,12 @@ Hale, Wayne. All blog entries posted in "[After Ten Years](http://waynehale.word
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< anchor "Economic_Modeling" >}}{{< /anchor >}}{{< resource_link 76528a2f-e933-1d63-6395-c347ac609d3e "Economic Modeling (PDF)" >}}
+{{< anchor "Economic_Modeling" >}}{{< /anchor >}}{{% resource_link 76528a2f-e933-1d63-6395-c347ac609d3e "Economic Modeling (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link 4983c9e6-1cee-e5c4-b9fb-f06e63f468e1 "The Subprime Mortgage Crisis and Macroeconomic Models (PDF)" >}}
+{{% resource_link 4983c9e6-1cee-e5c4-b9fb-f06e63f468e1 "The Subprime Mortgage Crisis and Macroeconomic Models (PDF)" %}}
 
 (Courtesy of Franco Chingcuanco, Jareth Holt, and Neha Mehta. Used with permission.)
 
@@ -82,12 +82,12 @@ Woodford, Michael. "[Convergence in Macroeconomics: Elements of the New Synthesi
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< anchor "Oil_Spill" >}}{{< /anchor >}}{{< resource_link 2e7a3f66-7877-d8c2-d3a2-39f018a35f45 "Oil Spill (PDF)" >}}
+{{< anchor "Oil_Spill" >}}{{< /anchor >}}{{% resource_link 2e7a3f66-7877-d8c2-d3a2-39f018a35f45 "Oil Spill (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link a71de061-dd5a-78e1-0f61-75c698113188 "Policy Brief: Deepwater Horizon Oil Spill (PDF)" >}}
+{{% resource_link a71de061-dd5a-78e1-0f61-75c698113188 "Policy Brief: Deepwater Horizon Oil Spill (PDF)" %}}
 
 (Courtesy of Chidube Ezeozue, Stephen Maouyo, Julia Moline, Ralph Turlington, and Ekene Umeike. Used with permission.)
 
@@ -110,12 +110,12 @@ National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling,
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< anchor "Clean_Air" >}}{{< /anchor >}}{{< resource_link 5b3a49ae-5123-e3bc-0b54-2764e58d413c "Clean Air (PDF)" >}}
+{{< anchor "Clean_Air" >}}{{< /anchor >}}{{% resource_link 5b3a49ae-5123-e3bc-0b54-2764e58d413c "Clean Air (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link 0af6984d-a891-ec0a-82d2-0e510a214bef "Setting of the 2008 National Ambient Air Quality Standard for Ozone (PDF)" >}}
+{{% resource_link 0af6984d-a891-ec0a-82d2-0e510a214bef "Setting of the 2008 National Ambient Air Quality Standard for Ozone (PDF)" %}}
 
 (Courtesy of Abdulla AlMisnad, Justin Ketterer, and Nina Schuchman. Used with permission.)
 
@@ -124,7 +124,7 @@ National Commission on the BP Deepwater Horizon Oil Spill and Offshore Drilling,
 {{< tdopen >}}
 
 
-{{< resource_link 282c4157-871b-e7a9-3cbb-af4d07c508c4 "Fact Sheet: Final Revisions To The National Ambient Air Quality Standards For Ozone. (PDF)" >}} Accessed February 19, 2014. (Document is by the Environmental Protection Agency, and is in the public domain.)
+{{% resource_link 282c4157-871b-e7a9-3cbb-af4d07c508c4 "Fact Sheet: Final Revisions To The National Ambient Air Quality Standards For Ozone. (PDF)" %}} Accessed February 19, 2014. (Document is by the Environmental Protection Agency, and is in the public domain.)
 
 McClellan, Roger O., Mark W. Frampton, et al. "[Critical Considerations in Evaluating Scientific Evidence of Health Effects of Ambient Ozone: A Conference Report](http://dx.doi.org/10.1080/08958370903176735)." _Inhalation Toxicology_ 21, no. S2 (2009): 1–36.
 
@@ -132,7 +132,7 @@ Walsh, Bryan. "[EPA's New Ozone Limit: Not Enough?](http://content.time.com/time
 
 "[Smog v. Jobs: Is Obama Admin Endangering U.S. Environment, Public Health with Retreat on Smog Standards?](http://www.democracynow.org/2011/9/7/smog_v_jobs_is_obama_admin)" _Democracy Now_. September 7, 2011.
 
-OAQPS Staff. {{< resource_link 007335f6-554f-fed3-4543-11b7c4e63171 "\"Review of the National Ambient Air Quality Standards for Ozone: Policy Assessment of Scientific and Technical Information.\" (PDF - 8.61MB)" >}} Accessed February 19, 2014. (Document is by the Environmental Protection Agency, and is in the public domain.)
+OAQPS Staff. {{% resource_link 007335f6-554f-fed3-4543-11b7c4e63171 "\"Review of the National Ambient Air Quality Standards for Ozone: Policy Assessment of Scientific and Technical Information.\" (PDF - 8.61MB)" %}} Accessed February 19, 2014. (Document is by the Environmental Protection Agency, and is in the public domain.)
 
 
 {{< tdclose >}}
@@ -140,12 +140,12 @@ OAQPS Staff. {{< resource_link 007335f6-554f-fed3-4543-11b7c4e63171 "\"Review of
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< anchor "Sports_Statistics" >}}{{< /anchor >}}{{< resource_link 44217fa7-6c64-d9e3-3ea5-4adbef0f1bc6 "Sports Statistics (PDF)" >}}
+{{< anchor "Sports_Statistics" >}}{{< /anchor >}}{{% resource_link 44217fa7-6c64-d9e3-3ea5-4adbef0f1bc6 "Sports Statistics (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link 5480aaf7-21aa-0111-85c1-7151123ad871 "The Application and Impact of Numerical Models for Decision-Making in Sports (PDF)" >}}
+{{% resource_link 5480aaf7-21aa-0111-85c1-7151123ad871 "The Application and Impact of Numerical Models for Decision-Making in Sports (PDF)" %}}
 
 (Courtesy of Jordan James Foley, Roi Guinto, Nocola Ricci, and Marcus Wu Shihong. Used with permission.)
 
@@ -172,12 +172,12 @@ McCallum, Jack. "[The Hangover: Roethlisberger](http://www.si.com/vault/2010/05/
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< anchor "Cancer_Screening" >}}{{< /anchor >}}{{< resource_link 1b1525db-fcaa-f848-c940-2fc2f7aebec0 "Cancer Screening (PDF)" >}}
+{{< anchor "Cancer_Screening" >}}{{< /anchor >}}{{% resource_link 1b1525db-fcaa-f848-c940-2fc2f7aebec0 "Cancer Screening (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-{{< resource_link 5316a2a4-171c-6b62-f447-81f1d370d76c "Breast Cancer Screening: A Case Study in Using Models to Inform Preventive Approaches (PDF)" >}}
+{{% resource_link 5316a2a4-171c-6b62-f447-81f1d370d76c "Breast Cancer Screening: A Case Study in Using Models to Inform Preventive Approaches (PDF)" %}}
 
 (Courtesy of Julie McNamara, and Jennifer Rood, and two anonymous MIT students. Used with permission.)
 

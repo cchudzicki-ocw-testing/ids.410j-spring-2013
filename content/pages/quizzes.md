@@ -24,28 +24,28 @@ SOLUTIONS
 {{< theadclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link 3b3c343b-0b33-8845-dc91-f61eb1af12c8 "Quiz 1 (PDF)" >}}
+{{% resource_link 3b3c343b-0b33-8845-dc91-f61eb1af12c8 "Quiz 1 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link 32afbbbc-93a6-6b1b-3d12-849128f3d875 "Solutions to Quiz 1 (PDF)" >}}
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
-{{< resource_link 77159742-d502-c2f1-f04f-0002f32ab19f "Quiz 2 (PDF)" >}}
-{{< tdclose >}}
-{{< tdopen >}}
-{{< resource_link cff547d6-2f12-5c0d-de90-d096149b6eb6 "Solutions to Quiz 2 (PDF)" >}}
+{{% resource_link 32afbbbc-93a6-6b1b-3d12-849128f3d875 "Solutions to Quiz 1 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen >}}
-{{< resource_link 18bbfbbe-4736-220c-9e86-cf6eef98d454 "Quiz 3 (PDF)" >}}
+{{% resource_link 77159742-d502-c2f1-f04f-0002f32ab19f "Quiz 2 (PDF)" %}}
 {{< tdclose >}}
 {{< tdopen >}}
-{{< resource_link cf9934c7-b351-5482-5750-242f2ab08973 "Solutions to Quiz 3 (PDF)" >}}
+{{% resource_link cff547d6-2f12-5c0d-de90-d096149b6eb6 "Solutions to Quiz 2 (PDF)" %}}
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+{{% resource_link 18bbfbbe-4736-220c-9e86-cf6eef98d454 "Quiz 3 (PDF)" %}}
+{{< tdclose >}}
+{{< tdopen >}}
+{{% resource_link cf9934c7-b351-5482-5750-242f2ab08973 "Solutions to Quiz 3 (PDF)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
