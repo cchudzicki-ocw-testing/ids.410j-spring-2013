@@ -69,15 +69,15 @@ During an average week, students were expected to spend 9 hours on the course, r
 ## Lecture
 
 - Two class sessions per week, each lasting an hour and a half; 27 sessions total.
-- Attendance is mandatory and is reflected in the “Participation” portion of the {{< resource_link 4eae3d44-f1ca-dad3-ea80-5eaae18f141d "grading scheme" "#grading" >}}.
+- Attendance is mandatory and is reflected in the “Participation” portion of the {{% resource_link 4eae3d44-f1ca-dad3-ea80-5eaae18f141d "grading scheme" "#grading" %}}.
 
 ## Out of Class
 
 Activities such as:
 
-- {{< resource_link 564d0ab5-d84f-37d8-698f-1c37cf536eed "Readings" >}} for class
-- {{< resource_link 229b83a3-f496-a03d-b403-dda779c8fc2e "Problem sets" >}} and other homework
-- Group work on the {{< resource_link 2894571f-a4c2-1e2f-7aca-aabe6b749145 "case study project" >}}
+- {{% resource_link 564d0ab5-d84f-37d8-698f-1c37cf536eed "Readings" %}} for class
+- {{% resource_link 229b83a3-f496-a03d-b403-dda779c8fc2e "Problem sets" %}} and other homework
+- Group work on the {{% resource_link 2894571f-a4c2-1e2f-7aca-aabe6b749145 "case study project" %}}
 - Online quizzes throughout the semester
 
 {{< anchor "roles" >}}{{< /anchor >}}
