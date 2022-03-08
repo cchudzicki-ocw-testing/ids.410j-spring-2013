@@ -149,18 +149,18 @@ Guest Lecturer: Stephen Zoepf, [MIT Sloan Auto Lab](http://web.mit.edu/sloan-aut
 
 ### Material Specific to Corporate Average Fuel Economy Standards
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Energy Policy and Conservation Act (PDF)](https://www.govtrack.us/congress/bills/94/s622/text) (1975).   
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Energy Policy and Conservation Act (PDF)](https://www.govtrack.us/congress/bills/94/s622/text) (1975).    
 Suggest skimming sections 32902(a), 32902(b), 32902(c), and 32902(f).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Energy Independence and Security Act  (PDF)](http://www.gpo.gov/fdsys/pkg/BILLS-110hr6enr/pdf/BILLS-110hr6enr.pdf) (2007).   
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Energy Independence and Security Act  (PDF)](http://www.gpo.gov/fdsys/pkg/BILLS-110hr6enr/pdf/BILLS-110hr6enr.pdf) (2007).    
 Suggest skimming Title I, Subtitle A, and Section 102(a) (on pp. 7–9 of pdf).
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)\[Corporate Average Fuel Economy for MY 2012-MY 2016 Passenger Cars and Light Trucks, Final Regulatory Analysis, NHTSA (PDF - 2.5MB)\]([http://www.nhtsa.gov/DOT/NHTSA/Rulemaking/Rules/Associated](http://www.nhtsa.gov/DOT/NHTSA/Rulemaking/Rules/Associated) Files/MY2012-2016\_CAFE\_PRIA.pdf). August 2009.   
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)\[Corporate Average Fuel Economy for MY 2012-MY 2016 Passenger Cars and Light Trucks, Final Regulatory Analysis, NHTSA ([PDF - 2.5MB](https://www.nhtsa.gov/DOT/NHTSA/Rulemaking/Rules/Associated%20Files/MY2012-2016_CAFE_PRIA.pdf))\]. August 2009.    
 Suggest reading Executive Summary and skimming pp. 108–17, 134–9, 161–72, 285–90, 309–12, 358–9, 403–17, 555–8, 563–7, 578, and 606–7.
 
 ### Material Establishing General Principles for Regulatory Impact Analysis
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Regulatory Impact Analysis: A Primer." (PDF)](https://www.reginfo.gov/public/jsp/Utilities/circular-a-4_regulatory-impact-analysis-a-primer.pdf) Office of Management and Budget.   
+![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Regulatory Impact Analysis: A Primer." (PDF)](https://www.reginfo.gov/public/jsp/Utilities/circular-a-4_regulatory-impact-analysis-a-primer.pdf) Office of Management and Budget.    
 Suggest skimming pp. 9–15.
 
 "[Circular A-4](https://obamawhitehouse.archives.gov/omb/circulars_a004_a-4/)." Office of Management and Budget.
@@ -174,7 +174,7 @@ Suggest skimming these sections:
 - Market-Oriented Approaches Rather than Direct Controls
 - Developing Benefit and Cost Estimates
 
-Clinton, Bill. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Regulatory Planning and Review." (PDF)](http://www.archives.gov/federal-register/executive-orders/pdf/12866.pdf) Executive Order 12866, 30 September 1993.   
+Clinton, Bill. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["Regulatory Planning and Review." (PDF)](http://www.archives.gov/federal-register/executive-orders/pdf/12866.pdf) Executive Order 12866, 30 September 1993.    
 Suggest skimming Section 1 (pp. 1–2).
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
