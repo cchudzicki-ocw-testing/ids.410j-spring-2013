@@ -1,5 +1,6 @@
 ---
 content_type: page
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
@@ -45,7 +46,9 @@ Every spring semester
 
 ## Student Information
 
-{{< resource 2a2012be-2843-d358-48ae-b2f0cda98f89 >}}
+### Enrollment
+
+26 students
 
 ### Breakdown by Year
 
@@ -66,12 +69,12 @@ An interest in technically-focused policy analysis
 
 During an average week, students were expected to spend 9 hours on the course, roughly divided as follows:
 
-## Lecture
+### Lecture
 
 - Two class sessions per week, each lasting an hour and a half; 27 sessions total.
 - Attendance is mandatory and is reflected in the “Participation” portion of the {{% resource_link 4eae3d44-f1ca-dad3-ea80-5eaae18f141d "grading scheme" "#grading" %}}.
 
-## Out of Class
+### Out of Class
 
 Activities such as:
 
