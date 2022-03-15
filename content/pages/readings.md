@@ -3,6 +3,8 @@ content_type: page
 draft: false
 title: Readings
 uid: 564d0ab5-d84f-37d8-698f-1c37cf536eed
+video_metadata:
+  youtube_id: null
 ---
 \[Silver\] = Silver, Nate. _The Signal and the Noise: Why So Many Predictions Fail—but Some Don't_. Penguin Press HC, 2012. ISBN: 9781594204111.
 
