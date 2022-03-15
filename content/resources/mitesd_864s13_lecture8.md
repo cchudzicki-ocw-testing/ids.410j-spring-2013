@@ -12,4 +12,6 @@ resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 8: IntegraLng Models and
   Policy making'
 uid: 5124bdee-f9b2-df62-08ee-15c8e0de758f
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ESD.864 Modeling and Assessment for Policy, Syllabus
 uid: c42db004-a497-29a4-7746-63b9af6959de
+video_metadata:
+  youtube_id: null
 ---

@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ESD.864 Modeling and Assessment for Policy, Economic Modeling
 uid: 76528a2f-e933-1d63-6395-c347ac609d3e
+video_metadata:
+  youtube_id: null
 ---

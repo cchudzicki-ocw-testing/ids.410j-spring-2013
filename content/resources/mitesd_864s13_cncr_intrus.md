@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ESD.864 Modeling and Assessment for Policy, Cancer Screening
 uid: 1b1525db-fcaa-f848-c940-2fc2f7aebec0
+video_metadata:
+  youtube_id: null
 ---

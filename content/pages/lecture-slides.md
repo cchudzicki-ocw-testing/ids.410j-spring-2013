@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Lecture Slides
 uid: 561b78e6-8966-b179-8155-054920743a0e
+video_metadata:
+  youtube_id: null
 ---
 
 _Lectures slides were used for several of the class sessions, but not all of them. This list contains all of the professor's lecture slides, and guest lecture slides where available._

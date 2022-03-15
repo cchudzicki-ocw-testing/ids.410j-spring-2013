@@ -12,4 +12,6 @@ resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 15: Politics and Modeling
   at the U.S. Environmental Protection Agency'
 uid: 9ec10ae9-4d67-aab8-b8ac-f1f125d238b2
+video_metadata:
+  youtube_id: null
 ---

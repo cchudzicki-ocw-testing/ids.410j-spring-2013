@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864: Modeling and Assessment for Policy, Quiz 1'
 uid: 3b3c343b-0b33-8845-dc91-f61eb1af12c8
+video_metadata:
+  youtube_id: null
 ---

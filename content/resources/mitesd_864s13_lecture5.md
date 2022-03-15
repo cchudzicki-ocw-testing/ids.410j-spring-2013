@@ -12,4 +12,6 @@ resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 5: Case Study: Acid Rain
   in Europe Case Study: Fisheries'
 uid: d9188db5-48d7-5629-4bfd-6e3e6db75908
+video_metadata:
+  youtube_id: null
 ---

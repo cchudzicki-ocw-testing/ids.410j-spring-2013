@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Policy Brief: Deepwater Horizon Oil Spill'
 uid: a71de061-dd5a-78e1-0f61-75c698113188
+video_metadata:
+  youtube_id: null
 ---

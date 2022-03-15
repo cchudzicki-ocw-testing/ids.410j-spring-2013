@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: The Subprime Mortgage Crisis and Macroeconomic Models
 uid: 4983c9e6-1cee-e5c4-b9fb-f06e63f468e1
+video_metadata:
+  youtube_id: null
 ---

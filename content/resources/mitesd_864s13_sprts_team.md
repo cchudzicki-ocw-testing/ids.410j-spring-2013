@@ -10,4 +10,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: The Application and Impact of Numerical Models for Decision-Making in Sports
 uid: 5480aaf7-21aa-0111-85c1-7151123ad871
+video_metadata:
+  youtube_id: null
 ---

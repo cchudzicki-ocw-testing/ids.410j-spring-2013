@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 3: Verification and Validation'
 uid: b4357c3b-59c2-7463-01cd-5478386f4ac3
+video_metadata:
+  youtube_id: null
 ---

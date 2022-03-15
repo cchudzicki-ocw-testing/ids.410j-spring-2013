@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 14: Risk'
 uid: faa95fc6-ec76-aa04-93bd-158bb8a3fede
+video_metadata:
+  youtube_id: null
 ---

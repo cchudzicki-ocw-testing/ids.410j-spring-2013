@@ -12,4 +12,6 @@ resourcetype: Document
 title: 'ESD.864 Modeling and Assessment for Policy: Lecture 7: The IPCC WG1 Fourth
   Assessment (2007)  and Thoughts on Assessments and Policy'
 uid: 84084116-f937-0114-bc18-a54c08940250
+video_metadata:
+  youtube_id: null
 ---

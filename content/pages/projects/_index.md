@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Projects
 uid: 2894571f-a4c2-1e2f-7aca-aabe6b749145
+video_metadata:
+  youtube_id: null
 ---
 
 Class Case Studies

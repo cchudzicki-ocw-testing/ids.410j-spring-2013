@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'Making Models Exhibit: Exhibit Goals and Activities'
 uid: 82dfebe2-3fa0-1766-0f6e-59241f8e08bb
+video_metadata:
+  youtube_id: null
 ---

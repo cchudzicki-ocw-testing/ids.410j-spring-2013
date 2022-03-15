@@ -5,6 +5,8 @@ learning_resource_types:
 ocw_type: CourseSection
 title: Assignments
 uid: 229b83a3-f496-a03d-b403-dda779c8fc2e
+video_metadata:
+  youtube_id: null
 ---
 
 _This section includes problem sets and a_ {{% resource_link 229b83a3-f496-a03d-b403-dda779c8fc2e "_policy memo_" "#Policy_Memo" %}}_._

@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: ESD.864 Problem Set 1
 uid: bc12afc1-127b-0550-1756-bc41fe8e9673
+video_metadata:
+  youtube_id: null
 ---

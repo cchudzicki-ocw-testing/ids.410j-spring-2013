@@ -11,4 +11,6 @@ parent_type: CourseSection
 resourcetype: Document
 title: 'ESD.864 Example Memo: Mercury in the U.S. Environment'
 uid: 752e3cc0-1305-f24d-e261-c83b2b690d97
+video_metadata:
+  youtube_id: null
 ---
