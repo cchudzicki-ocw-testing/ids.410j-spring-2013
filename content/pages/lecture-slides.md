@@ -47,8 +47,7 @@ Introduction
 Science Policy Review
 {{< tdclose >}}
 {{< tdopen >}}
-[Lecture 2 Slides (PDF)  
-]({{< baseurl >}}/resources/mitesd_864s13_lecture2)
+{{% resource_link "eba4eb6e-6efa-b8ce-cb17-1c6988d3ab7a" "Lecture 2 Slides (PDF)   " %}}
 {{< tdclose >}}
 
 {{< trclose >}}
