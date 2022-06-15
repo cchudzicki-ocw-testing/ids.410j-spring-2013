@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides details on the class case study project, the case
+  study memo, and case study review groups.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides examples of student work for the class project
+  and related readings.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the problem sets assigned for the course, supplementary
+  files, and details on the policy memo assignment.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
