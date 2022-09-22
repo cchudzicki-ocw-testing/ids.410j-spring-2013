@@ -5,6 +5,7 @@ file: /courses/ids-410j-modeling-and-assessment-for-policy-spring-2013/32afbbbc9
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Quizzes
 parent_type: CourseSection

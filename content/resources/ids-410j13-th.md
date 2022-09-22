@@ -14,6 +14,7 @@ image_metadata:
   image-alt: An xkcd comic showing a physicist condescendingly "solving" a complicated
     problem of another scientist.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: ids-410j13-th.jpg
